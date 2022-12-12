@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rafidrabbi123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10vNgCA6DTZZsHjjJBfhXQa80ox1ekmkz/view?usp=sharing](https://drive.google.com/file/d/10vNgCA6DTZZsHjjJBfhXQa80ox1ekmkz/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xJhUohHwn2RlL6NaKdIASlz0mLpRLkMY/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

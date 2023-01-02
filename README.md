@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Doctors Portal**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://rafidportfolio.netlify.app/](https://rafidportfolio.netlify.app/)
 
-- 💬 Ask me about **ReactJs, Frontend Development, MERN**
+- 💬 Ask me about **ReactJs, Frontend Development, Ruby**
 
 - 📫 How to reach me **rafidrabbi123@gmail.com**
 

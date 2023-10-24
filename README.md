@@ -8,8 +8,8 @@
 - 📫 How to reach me **rafidrabbi123@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/1xJhUohHwn2RlL6NaKdIASlz0mLpRLkMY/view?usp=share_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/mohammad-rafid-rabbi-b59490180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-rafid-rabbi-b59490180" height="30" width="40" /></a>
 <a href="https://fb.com/rafidrabbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafidrabbi" height="30" width="40" /></a>
 </p>

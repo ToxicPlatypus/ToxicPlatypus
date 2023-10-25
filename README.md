@@ -48,4 +48,19 @@
 </p>
 
 <p float="left">
-<img width="1000" float="left" src="https://github-readme-streak-stats.herokuapp.com?user=toxicplatypus&theme=ayu-mirage&hide_border=true" /></p>
+<img width="1000" float="left" src="https://github-readme-stats.vercel.app/api?username=toxicplatypus&theme=ayu-mirage&hide_border=true" />
+</p>
+
+<p float="left">
+<img width="1000" float="left" src="https://github-readme-streak-stats.herokuapp.com?user=toxicplatypus&theme=ayu-mirage&hide_border=true" />
+</p>
+
+<p float="left">
+<img width="1000" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/username=toxicplatypus&theme=ayu-mirage&hide_border=true" />
+</p>
+
+![Rafid's Stats](https://github-readme-stats.vercel.app/api?username=toxicplatypus&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![Rafid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=toxicplatypus&theme=darcula&hide_border=true)
+
+![Rafid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=toxicplatypus&theme=darcula&show_icons=true&hide_border=true&layout=compact)

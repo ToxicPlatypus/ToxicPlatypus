@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on **Modhumoti Bank Limited**
 - 🌱 I’m currently learning **API Testing** 
 - 👨‍💻 All of my projects are available at [https://rafidportfolio.netlify.app/](https://rafidportfolio.netlify.app/)
-- 💬 Ask me about **Ruby on Rails, JavaScript, ReactJS** 
+- 💬 Ask me about **Ruby on Rails, JavaScript, ReactJS**
+- 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 📫 How to reach me **rafidrabbi123@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/1xJhUohHwn2RlL6NaKdIASlz0mLpRLkMY/view?usp=share_link)
 
@@ -47,20 +48,6 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<p float="left">
-<img width="1000" float="left" src="https://github-readme-stats.vercel.app/api?username=toxicplatypus&theme=ayu-mirage&hide_border=true" />
-</p>
-
-<p float="left">
-<img width="1000" float="left" src="https://github-readme-streak-stats.herokuapp.com?user=toxicplatypus&theme=ayu-mirage&hide_border=true" />
-</p>
-
-<p float="left">
-<img width="1000" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/username=toxicplatypus&theme=ayu-mirage&hide_border=true" />
-</p>
-
 ![Rafid's Stats](https://github-readme-stats.vercel.app/api?username=toxicplatypus&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
 ![Rafid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=toxicplatypus&theme=darcula&hide_border=true)
-
-![Rafid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=toxicplatypus&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Rafid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toxicplatypus&theme=darcula&show_icons=true&hide_border=true&layout=compact)

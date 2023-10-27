@@ -9,11 +9,10 @@
 - 📫 How to reach me **rafidrabbi123@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/1xJhUohHwn2RlL6NaKdIASlz0mLpRLkMY/view?usp=share_link)
 
-<h3 align="left"> Programming Languages </h3>
+<h3 align="left"> Front End Skills </h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-red?style=for-the-badge&logo=Ruby%20on%20Rails" alt="Ruby on Rails" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/RSpec-black?style=for-the-badge&logo=rspec" alt="RSpec" />
+  	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  	<img src="https://img.shields.io/badge/RSpec-black?style=for-the-badge&logo=rspec" alt="RSpec" />
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
 	<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
@@ -21,10 +20,11 @@
 	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<h3 align="left">Backend Development Skills:</h3>
+<h3 align="left">Backend Skills:</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-red?style=for-the-badge&logo=Ruby%20on%20Rails" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql" alt="MySql" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />

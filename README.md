@@ -7,7 +7,7 @@
 - 💬 Ask me about **Ruby on Rails, JavaScript, ReactJS**
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 📫 How to reach me **rafidrabbi123@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1xJhUohHwn2RlL6NaKdIASlz0mLpRLkMY/view?usp=share_link)
+- 📄 [Resume](https://drive.google.com/file/d/1P2qiliCPpoVbA1U5rakrOr4VmHl1MH6t/view?usp=sharing)
 
 <h3 align="left"> Front End Skills </h3>
 <p align="left">

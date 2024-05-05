@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/sharetribe">Sharetribe</a>
 - 🌱 I’m currently learning **API Testing** 
-- 👨‍💻 All of my projects are available at [Website](https://rafidportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Website](https://mdrafidrabbi.netlify.app/)
 - 💬 Ask me about **Ruby on Rails, JavaScript, ReactJS**
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 📫 How to reach me **rafidrabbi123@gmail.com**

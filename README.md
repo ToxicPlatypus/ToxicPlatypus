@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, I'm Mohammad </h1>
 <h4 align="center">A Passionate Full Stack Developer from BD.</h4>
 
-- 🔭 I’m currently working on <a href="https://github.com/sharetribe">Sharetribe</a>
+- 🔭 I’m currently working on <a href="https://github.com/sharetribe" target='_blank'>Sharetribe</a>
 - 🌱 I’m currently learning **API Testing** 
-- 👨‍💻 All of my projects are available at [My Website](https://mdrafidrabbi.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://mdrafidrabbi.netlify.app/" target="_blank">My Website</a>.
 - 💬 Ask me about **Ruby on Rails, JavaScript, ReactJS**
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 📫 How to reach me **rafidrabbi123@gmail.com**
